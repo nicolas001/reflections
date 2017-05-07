@@ -1,1 +1,9 @@
-vdsvdsvdsvdsvdsvsv
+Reflect: Forks, Clones, and Branches
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+-- Forks: clone direct to github account
+-- Clone: clone the repository on your local machine
+-- Branch: create a new branch on your local machine
+
+
